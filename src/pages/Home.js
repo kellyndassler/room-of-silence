@@ -4,9 +4,6 @@ const Home = () => {
   return (
     <div className="home page-wrapper">
       <div className="page-cont">
-        <div className="logo">
-          <img src="assets/images/frog.svg" />
-        </div>
         <div className="toc">
           <h1 className="hd3">Room Of Silence</h1>
           <ul>
