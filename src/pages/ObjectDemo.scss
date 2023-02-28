@@ -1,0 +1,23 @@
+.objectDemo {
+  .threejsCanvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  .textOverlayTop {
+    color: #2e579e;
+    padding: 30px 60px;
+    h1 {
+      font-size: 48px;
+      line-height: 56px;
+    }
+  }
+  .textOverlayBottom {
+    color: #2e579e;
+    padding: 30px 60px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+}
