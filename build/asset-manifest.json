@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/room-of-silence/static/css/main.5206298c.css",
+    "main.js": "/room-of-silence/static/js/main.c47effc5.js",
+    "static/js/787.f646aef7.chunk.js": "/room-of-silence/static/js/787.f646aef7.chunk.js",
+    "static/media/header-bg.png": "/room-of-silence/static/media/header-bg.3ff29b89c25c079641db.png",
+    "static/media/quarto-bolditalic-webfont.woff": "/room-of-silence/static/media/quarto-bolditalic-webfont.dd38dbbb2166c431f0c7.woff",
+    "static/media/quarto-lightitalic-webfont.woff": "/room-of-silence/static/media/quarto-lightitalic-webfont.67075c3651574fcc08f4.woff",
+    "static/media/quarto-blackitalic-webfont.woff": "/room-of-silence/static/media/quarto-blackitalic-webfont.07bc9f527beb6b21420e.woff",
+    "static/media/quarto-bold-webfont.woff": "/room-of-silence/static/media/quarto-bold-webfont.da0b357fce066cab27fb.woff",
+    "static/media/quarto-black-webfont.woff": "/room-of-silence/static/media/quarto-black-webfont.3c01c6938f2e6dd85d4e.woff",
+    "static/media/bentonsansf-bookitalic-webfont.woff": "/room-of-silence/static/media/bentonsansf-bookitalic-webfont.64f40e1f44c426df9526.woff",
+    "static/media/bentonsansf-bolditalic-webfont.woff": "/room-of-silence/static/media/bentonsansf-bolditalic-webfont.465b03c7b048de7584e0.woff",
+    "static/media/quarto-light-webfont.woff": "/room-of-silence/static/media/quarto-light-webfont.1b394ce4c9de004db6ba.woff",
+    "static/media/bentonsansf-extralight-webfont.woff": "/room-of-silence/static/media/bentonsansf-extralight-webfont.cb4a0662aed8495dd9ba.woff",
+    "static/media/bentonsansf-medium-webfont.woff": "/room-of-silence/static/media/bentonsansf-medium-webfont.386140046b1970e2bf41.woff",
+    "static/media/bentonsansf-bold-webfont.woff": "/room-of-silence/static/media/bentonsansf-bold-webfont.7b96601f159255c379d8.woff",
+    "static/media/bentonsansf-book-webfont.woff": "/room-of-silence/static/media/bentonsansf-book-webfont.d044245bef46449e18b2.woff",
+    "static/media/quarto-bolditalic-webfont.woff2": "/room-of-silence/static/media/quarto-bolditalic-webfont.86d149d82411c3417dbf.woff2",
+    "static/media/quarto-lightitalic-webfont.woff2": "/room-of-silence/static/media/quarto-lightitalic-webfont.0f5c89bff397987efb08.woff2",
+    "static/media/quarto-blackitalic-webfont.woff2": "/room-of-silence/static/media/quarto-blackitalic-webfont.a565b711b3bfd2ef06ef.woff2",
+    "static/media/quarto-bold-webfont.woff2": "/room-of-silence/static/media/quarto-bold-webfont.74af0dd4e50667fb3b8a.woff2",
+    "static/media/quarto-black-webfont.woff2": "/room-of-silence/static/media/quarto-black-webfont.c2a4868d11ef312f2349.woff2",
+    "static/media/quarto-light-webfont.woff2": "/room-of-silence/static/media/quarto-light-webfont.d366e14dd06de74fc0a2.woff2",
+    "static/media/bentonsansf-bookitalic-webfont.woff2": "/room-of-silence/static/media/bentonsansf-bookitalic-webfont.978249aeaca865603b91.woff2",
+    "static/media/bentonsansf-bolditalic-webfont.woff2": "/room-of-silence/static/media/bentonsansf-bolditalic-webfont.03d293f1550e3c476807.woff2",
+    "static/media/bentonsansf-extralight-webfont.woff2": "/room-of-silence/static/media/bentonsansf-extralight-webfont.b62136264c35819c06de.woff2",
+    "static/media/bentonsansf-medium-webfont.woff2": "/room-of-silence/static/media/bentonsansf-medium-webfont.f42dfb9120494452c6e2.woff2",
+    "static/media/bentonsansf-bold-webfont.woff2": "/room-of-silence/static/media/bentonsansf-bold-webfont.e60cfe276d6fba4bcd04.woff2",
+    "static/media/bentonsansf-book-webfont.woff2": "/room-of-silence/static/media/bentonsansf-book-webfont.3d04f7584c039e3ebdd3.woff2",
+    "index.html": "/room-of-silence/index.html",
+    "main.5206298c.css.map": "/room-of-silence/static/css/main.5206298c.css.map",
+    "main.c47effc5.js.map": "/room-of-silence/static/js/main.c47effc5.js.map",
+    "787.f646aef7.chunk.js.map": "/room-of-silence/static/js/787.f646aef7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5206298c.css",
+    "static/js/main.c47effc5.js"
+  ]
+}
